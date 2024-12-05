@@ -123,11 +123,4 @@ QuickApp is actively maintained on [GitHub](https://github.com/emonney/QuickApp)
 *   Suggesting ideas or areas of improvements
 *   Linking to it and recommending it to others
 
-
-## License
-
-Released under the [MIT License](https://github.com/emonney/QuickApp/blob/master/LICENSE).
-
-[YOUR FEEDBACK](mailto:feedback@ebenmonney.com) | [FOLLOW ME](https://twitter.com/kommand)
-
 ### _**If you found this template useful, please take a minute to [rate it](https://marketplace.visualstudio.com/items?itemName=adentum.QuickApp-ASPNETCoreAngularXProjectTemplate#review-details). Appreciated!**_
