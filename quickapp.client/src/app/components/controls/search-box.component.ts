@@ -1,8 +1,3 @@
-// ---------------------------------------
-// Email: b.ceb.0603@gmail.com
-// Templates: www.ebenmonney.com/templates
-// (c) 2024 www.ebenmonney.com/mit-license
-// ---------------------------------------
 
 import { Component, ElementRef, HostListener, input, output, viewChild } from '@angular/core';
 import { FormsModule } from '@angular/forms';

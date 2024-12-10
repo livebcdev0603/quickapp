@@ -1,9 +1,4 @@
-﻿// ---------------------------------------
-// Email: b.ceb.0603@gmail.com
-// Templates: www.ebenmonney.com/templates
-// (c) 2024 www.ebenmonney.com/mit-license
-// ---------------------------------------
-
+﻿
 using MailKit.Net.Smtp;
 using Microsoft.Extensions.Options;
 using MimeKit;

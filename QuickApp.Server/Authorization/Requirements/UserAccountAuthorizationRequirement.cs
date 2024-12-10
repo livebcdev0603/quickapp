@@ -1,9 +1,4 @@
-﻿// ---------------------------------------
-// Email: b.ceb.0603@gmail.com
-// Templates: www.ebenmonney.com/templates
-// (c) 2024 www.ebenmonney.com/mit-license
-// ---------------------------------------
-
+﻿
 using Microsoft.AspNetCore.Authorization;
 using QuickApp.Core.Services.Account;
 using QuickApp.Server.Services;
